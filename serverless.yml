@@ -10,3 +10,6 @@ provider:
 functions:
   hello:
     handler: handler.hello
+
+custom:
+  webpackIncludeModules: true
